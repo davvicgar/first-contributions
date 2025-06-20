@@ -1838,6 +1838,7 @@ Matthew Burgos
 - [Naveen1023](https://github.com/Naveen1023)
 - [Prasad Ingale](https://github.com/PrasadIngale40)
 - [Aditya Radadiya](https://github.com/RadadiyaAditya)
+- [David Vicent]
 - [Mostapha EL ANSARI](https://github.com/mostaphaelansari)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
 - [Manoj Thilakarathna](https://github.com/manojtharindu11)
